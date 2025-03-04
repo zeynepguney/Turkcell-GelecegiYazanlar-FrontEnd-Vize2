@@ -2,6 +2,9 @@
 
 **Game'Z** gerçek oyunculara hitap eden bir platformdur. Kullanıcılar burada oyunlar hakkında içeriklere erişebilir, oyunlarla ilgili bilgileri görüntüleyebilir ve eğlenceli bir deneyim yaşayabilir. Bu proje, modern web teknolojilerini kullanarak geliştirilmiştir ve kullanıcı dostu bir arayüz sunmayı hedeflemektedir.
 
+Projeyi Canlıda İncelemek İçin : 
+https://regal-cannoli-378d35.netlify.app/
+
 ## Proje İçeriği
 
 - **Ana Sayfa**: Oyunlarla ilgili içerikler ve bilgiler sunulmaktadır.
